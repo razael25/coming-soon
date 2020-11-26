@@ -10,6 +10,20 @@ body {
   justify-content: center;
 }
 
+// 'Base' CSS
+
+@media (min-width: 320px) and (max-width: 999px) {
+
+  // Mobile and tablet CSS
+
+}
+
+@media (min-width: 1000px) {
+
+  // Laptop/desktop CSS
+
+}
+
 h1 {
   color: #000000;
   font-family: RetrovilleNC;
