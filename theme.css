@@ -10,38 +10,6 @@ body {
   justify-content: center;
 }
 
-body {
-  height: 50%;
-}
-
-body {
-  height: 5em;
-  width: 5rem;
-}
-
-body {
-  height: 10vh;
-  width: 10vw;
-}
-
-.title {
-  font-size: calc(40px + 6 * ((100vw - 320px) / 680));
-}
-
-// 'Base' CSS
-
-@media (min-width: 320px) and (max-width: 999px) {
-
-  // Mobile and tablet CSS
-
-}
-
-@media (min-width: 1000px) {
-
-  // Laptop/desktop CSS
-
-}
-
 h1 {
   color: #000000;
   font-family: RetrovilleNC;
@@ -174,4 +142,3 @@ html,body{
 .wrapper .youtube:hover .tooltip:before{
   background: #DE463B;
 }
-
