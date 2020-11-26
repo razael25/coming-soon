@@ -10,6 +10,24 @@ body {
   justify-content: center;
 }
 
+body {
+  height: 50%;
+}
+
+body {
+  height: 5em;
+  width: 5rem;
+}
+
+body {
+  height: 10vh;
+  width: 10vw;
+}
+
+.title {
+  font-size: calc(40px + 6 * ((100vw - 320px) / 680));
+}
+
 // 'Base' CSS
 
 @media (min-width: 320px) and (max-width: 999px) {
