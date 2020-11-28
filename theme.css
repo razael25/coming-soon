@@ -33,6 +33,16 @@ h1 {
   50% { border-color: red }
 }
 
+@media screen and {max-width: 720px) {
+
+  body {
+    background: #ff0000;
+    display: flex;
+    justify-content: center;
+  }
+
+}
+
 
 
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
